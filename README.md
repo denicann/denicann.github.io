@@ -1,8 +1,8 @@
-## Welcome to denicann Pages
+## Welcome to denice's music hub <33
 
-You can use the [editor on GitHub](https://github.com/denicann/denicann.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+From this site, you can get music recommendations and playlists made by me :>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope that the music will give you peace of mind and companionship in every situation.
 
 ### Markdown
 
