@@ -1,4 +1,4 @@
-# Welcome to denice's music hub <33
+## Welcome to denice's music hub <33
 
 From this site, you can get music recommendations and playlists made by me :>
 
