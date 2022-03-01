@@ -1,6 +1,6 @@
+### recommends <33
 
-
-From this site, you can get music recommendations and playlists made by me :>
+From this site, you can get music and artists recommendations and playlists made by me :>
 
 I hope that the music will give you peace of mind and companionship in every situation.
 
