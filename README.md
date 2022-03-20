@@ -1,6 +1,3 @@
-
-jekyll:master ← ashmaroli:header-logo
-
 ### recommends <33
 
 From this site, you can get playlist recommendations made by me :>
