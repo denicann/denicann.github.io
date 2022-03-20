@@ -30,6 +30,12 @@ A playlist full of songs from my home country, the Philippines, which is also kn
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4nLIR6JdW4dwfhvSv1CsuG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+## Mankai Company 🌸🌻🍁❄️
+
+This is the playlist of the soundtracks of one of my fave games. Check it out and see if you'll like some songs in there.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/03hL6kxVYUEyHzo70CdboR?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 And that's it! That's all of my all time favorite playlists and I hope that you'll like it. I might add some more in the near future so stay connected!
 
 And as always PLUS ULTRA!
