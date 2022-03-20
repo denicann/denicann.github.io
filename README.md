@@ -1,37 +1,35 @@
 ### recommends <33
 
-From this site, you can get music and artists recommendations and playlists made by me :>
+From this site, you can get playlist recommendations made by me :>
 
-I hope that the music will give you peace of mind and companionship in every situation.
+I hope that the music will give you peace of mind and companionship in different times.
 
-### Markdown
+Enjoy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## summering
 
-```markdown
-Syntax highlighted code block
+summering is a playlist I made for the summer season. It's a playlist to make you feel the summer even more. It can make you enjoy the summer too while you're at it.
 
-# Header 1
-## Header 2
-### Header 3
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2P3TOgw7wkmmrMw68bjdT1?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-- Bulleted
-- List
+## relax
 
-1. Numbered
-2. List
+relax is also a playlist I made myself. It's a playlist you can listen to when studying or before you sleep. It's also a playlist that can soothe your nerves and give you a peace of mind when you need it.
 
-**Bold** and _Italic_ and `Code` text
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6TjP2M5ORHYN1RtJ1l8puU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-[Link](url) and ![Image](src)
-```
+## that era
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This playlist has the songs from the 2010's. It can give you nostalgia and make you remember the old times.
 
-### Jekyll Themes
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1Q0OS8Ud9pXvxWsNRBYER3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/denicann/denicann.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## opm jam
 
-### Support or Contact
+A playlist full of songs from my home country, the Philippines, which is also known as OPM. Here you can enjoy the songs made by the local artists from the Philippines.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4nLIR6JdW4dwfhvSv1CsuG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+And that's it! That's all of my all time favorite playlists and I hope that you'll like it. I might add some more in the near future so stay connected!
+
+And as always PLUS ULTRA!
